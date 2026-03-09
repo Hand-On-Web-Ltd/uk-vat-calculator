@@ -1,0 +1,17 @@
+{
+  "name": "handonweb-uk-vat-calc",
+  "version": "1.1.0",
+  "description": "UK VAT calculator. Add/remove VAT, calculate VAT amount, check registration threshold.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"const x = require('./index.js'); console.log(x)\""
+  },
+  "keywords": ["vat", "uk", "tax", "calculator", "hmrc", "handonweb"],
+  "author": "Hand On Web Ltd <outreach@handonweb.com> (https://www.handonweb.com)",
+  "license": "MIT",
+  "homepage": "https://www.handonweb.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hand-On-Web-Ltd/uk-vat-calculator.git"
+  }
+}
